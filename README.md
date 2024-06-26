@@ -1,5 +1,5 @@
 # To-do-List
-Develiping a practical and highly useful application that is a staple in many people's daily productivity routines.
+Developing a practical and highly useful application that is a staple in many people's daily productivity routines.
 Js to enhance the interactivity and responsiveness of web pages.
 JavaScript Skills Covered:
 
